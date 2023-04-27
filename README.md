@@ -4,6 +4,8 @@ This action delete a [CodePush](https://learn.microsoft.com/en-us/appcenter/dist
 
 You will need a `Full Access` [API token](https://learn.microsoft.com/en-us/appcenter/api-docs/#creating-an-app-center-user-api-token) from AppCenter.
 
+> - To deploy a new CodePush, please use [huextrat/deploy-codepush](https://github.com/marketplace/actions/deploy-codepush)
+
 # Usage
 
 <!-- start usage -->
