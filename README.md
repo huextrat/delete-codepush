@@ -10,7 +10,7 @@ You will need a `Full Access` [API token](https://learn.microsoft.com/en-us/appc
 
 <!-- start usage -->
 ```yaml
-- uses: huextrat/delete-codepush@v1.0.1
+- uses: huextrat/delete-codepush@v1.0.2
   with:
     # Required, as the AppCenter CLI requires authentication
     # Make it secure, using GitHub secrets for instance
@@ -36,7 +36,7 @@ You will need a `Full Access` [API token](https://learn.microsoft.com/en-us/appc
 
 #### Android
 ```yaml
-- uses: huextrat/delete-codepush@v1.0.1
+- uses: huextrat/delete-codepush@v1.0.2
   with:
     token: ${{ secrets.APP_CENTER_API_KEY }}
     app: "huextrat/MyApp-Android"
@@ -45,7 +45,7 @@ You will need a `Full Access` [API token](https://learn.microsoft.com/en-us/appc
 
 #### iOS
 ```yaml
-- uses: huextrat/delete-codepush@v1.0.1
+- uses: huextrat/delete-codepush@v1.0.2
   with:
     token: ${{ secrets.APP_CENTER_API_KEY }}
     app: "huextrat/MyApp-iOS"
