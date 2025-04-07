@@ -1,3 +1,7 @@
+# ⚠️ AppCenter is shut down
+
+
+
 # Delete CodePush
 
 This action delete a [CodePush](https://learn.microsoft.com/en-us/appcenter/distribution/codepush/) deployment track using the AppCenter CLI.
